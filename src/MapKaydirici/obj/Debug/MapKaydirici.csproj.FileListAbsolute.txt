@@ -1,0 +1,12 @@
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\obj\Debug\MapKaydirici.mainForm.resources
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\obj\Debug\MapKaydirici.Properties.Resources.resources
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\obj\Debug\MapKaydirici.csproj.GenerateResource.cache
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\bin\Debug\MapKaydirici.exe.config
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\bin\Debug\MapKaydirici.exe
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\bin\Debug\MapKaydirici.pdb
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\obj\Debug\MapKaydirici.exe
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\obj\Debug\MapKaydirici.pdb
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\bin\Debug\MapKaydirici.xml
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\bin\Debug\FastColoredTextBox.dll
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\bin\Debug\FastColoredTextBox.pdb
+C:\Users\berke\source\repos\MapKaydirici\MapKaydirici\obj\Debug\MapKaydirici.csproj.CopyComplete

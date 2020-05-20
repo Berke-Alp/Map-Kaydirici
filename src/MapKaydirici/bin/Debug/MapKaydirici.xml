@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MapKaydirici</name>
+    </assembly>
+    <members>
+        <member name="T:MapKaydirici.mainForm">
+            <summary>
+            Kullanacağımız Form tipinde nesnemiz
+            </summary>
+        </member>
+        <member name="M:MapKaydirici.mainForm.#ctor">
+            <summary>
+            Ana Formumuz oluşurken işleyeceği satırlar bu fonksiyonda tutuluyor
+            </summary>
+        </member>
+        <member name="T:MapKaydirici.mainForm.Object">
+            <summary>
+            CreateObject fonksiyonu ile oluşturulan obje
+            </summary>
+        </member>
+        <member name="T:MapKaydirici.mainForm.DynamicObject">
+            <summary>
+            CreateDynamicObject fonksiyonu ile oluşturulan obje
+            </summary>
+        </member>
+        <member name="T:MapKaydirici.mainForm.DynamicObjectEx">
+            <summary>
+            CreateDynamicObjectEx fonksiyonu ile oluşturulan obje
+            </summary>
+        </member>
+        <member name="T:MapKaydirici.mainForm.Hata">
+            <summary>
+            Hatalarımız hangi satırda, ne mesajı içeriyor onu göstermek için Hata sınıfı
+            </summary>
+        </member>
+        <member name="M:MapKaydirici.mainForm.btnKaydir_Click(System.Object,System.EventArgs)">
+            <summary>
+            Kaydır butonuna basınca olacaklar
+            </summary>
+            <param name="sender">Gönderen, bu durumda Kaydır butonumuz</param>
+            <param name="e">Olay argümanları</param>
+        </member>
+        <member name="M:MapKaydirici.mainForm.ParseRegularCoordinate(System.String[])">
+            <summary>
+            Gelen bilgiye göre işleme yapar ve Object tipinde nesne döndürür.
+            </summary>
+            <param name="row">Gelecek string dizisi</param>
+            <returns>Varsayılan değerleriyle birlikte Object döndürür</returns>
+        </member>
+        <member name="F:MapKaydirici.mainForm.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:MapKaydirici.mainForm.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:MapKaydirici.mainForm.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:MapKaydirici.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:MapKaydirici.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:MapKaydirici.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:MapKaydirici.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>
